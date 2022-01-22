@@ -1,0 +1,3 @@
+- Buttons must have discernible text - 2
+- Images must have alternate text - 4
+- Input buttons must have discernible text - 1

@@ -1,0 +1,16 @@
+{
+  "name": "testy-automatyczne-ceypress-tvn_pl",
+  "version": "1.0.0",
+  "description": "Testy automatyczne funkcjonalności rejestracja nowego użytkownika ",
+  "main": "index.js",
+  "scripts": {
+    "test-headless": "npx cypress run",
+    "test": "npx cypress open",
+    "test-staging":"npx run open --config-file staging.cypress.json"
+  },
+  "author": "Mariusz Burzyński",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}

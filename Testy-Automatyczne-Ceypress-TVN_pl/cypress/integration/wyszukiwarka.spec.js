@@ -16,10 +16,8 @@ describe('Sprawdzenie wyników wyszukań', () => {
         cy.get('.search-phrase').then((headerText) => {
          const text = headerText.text()
                   cy.writeFile('cypress/fixtures/wyniki.json', {wynik1:text})
-        })
-       
-       
-
+        }) 
     });
+    
     
 });

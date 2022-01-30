@@ -1,0 +1,9 @@
+Rejestracja nowego użytkownika
+1. Rejestracja drugi raz na ten sam adres e-mail
+2. Rejestracja na błędnie wpisany adres e-mail
+3. Wyszukiwarka
+- sprawdzenie wyszukań z pustym polem wyszukiwarki
+- czy wyniki wyszukań są jednakowe dla frazy np.: Szkło Kontaktowe" i "Kontaktowe Szkło" 
+(oba wyniki wyszukań zapisać do pliku)
+- Czy wyniki wsyszukań po fragmencie frazy zwracają wynik taki sam jak po całej frazie
+(oba wyniki wyszukań zapisać do pliku)

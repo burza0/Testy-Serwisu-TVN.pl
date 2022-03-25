@@ -1,8 +1,2 @@
-staging.cypress.json
-node_modules/*
-*.7z
-*.dmg
-*.rar
-*.zip
-*.iso
+New
 
